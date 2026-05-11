@@ -1,6 +1,6 @@
 # Superstore Sales Analytics Project
 
-## Overview
+**Overview**
 This project analyzes Superstore sales data using Excel, Python, SQL, and Power BI to generate meaningful business insights and build an interactive dashboard for decision-making.
 
 ## Objective
