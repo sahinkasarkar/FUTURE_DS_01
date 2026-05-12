@@ -40,14 +40,15 @@ The main objectives of this project are:
 - Interactive Filters and Slicers
 
 ## Skills Demonstrated
-- Data Cleaning
+- Data Cleaning & Preparation
 - Data Analysis
 - SQL Querying
 - Data Visualization
 - Dashboard Development
-- Business Analytics
-- KPI Analysis
-- Insight Generation
+- Business-focused KPI Analysis
+- Insight Generation and Reporting
+- Trend and Performance analysis
+- Business storytelling using data
 
 ## Dashboard Preview
 
