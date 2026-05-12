@@ -51,7 +51,8 @@ The main objectives of this project are:
 - Business storytelling using data
 
 ## Dashboard Preview
-![Superstore Sales Dashboard](PowerBI_Dashboard.png)
+
+![Superstore Sales Dashboard](Dashboard.png)
 
 ## Author
 Sahinka Sarkar
