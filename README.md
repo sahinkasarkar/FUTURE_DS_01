@@ -1,9 +1,9 @@
 # Superstore Sales Analytics Project
 
-## Overview
+## Project Overview
 This project analyzes Superstore sales data using Excel, Python, SQL, and Power BI to generate meaningful business insights and build an interactive dashboard for decision-making.
 
-## Objective
+## Project Objective
 The main objectives of this project are:
 - Analyze overall sales and profit performance
 - Identify top-performing products
@@ -23,6 +23,7 @@ Superstore Sales Dataset
 
 Dataset link:
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
 ## Project Workflow
 1. Cleaned and prepared the dataset in Excel  
 2. Performed data analysis and visualization using Python  
