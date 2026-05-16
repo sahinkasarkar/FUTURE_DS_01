@@ -18,6 +18,11 @@ The main objectives of this project are:
 - SQL
 - Power BI
 
+## Dataset Used
+Superstore Sales Dataset
+
+Dataset link:
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 ## Project Workflow
 1. Cleaned and prepared the dataset in Excel  
 2. Performed data analysis and visualization using Python  
