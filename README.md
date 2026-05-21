@@ -58,7 +58,7 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## Dashboard Preview
 
-![Superstore Sales Dashboard](Dashboard.png)
+![Superstore Sales Dashboard](PowerBI_Dashboard.png)
 
 ## Author
 Sahinka Sarkar
