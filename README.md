@@ -62,3 +62,5 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## Author
 Sahinka Sarkar
+
+![video](Dashboard_video.mp4)
